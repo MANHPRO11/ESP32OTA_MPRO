@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "min_version": "1.0.0",
   "force": false,
   "url": "https://github.com/MANHPRO11/ESP32OTA_MPRO/blob/main/firmware.bin",
@@ -13,3 +13,4 @@
   ]
 
 }
+
