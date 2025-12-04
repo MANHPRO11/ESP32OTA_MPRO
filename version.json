@@ -1,5 +1,5 @@
 {
-  "version": "1.0.2",
+  "version": "1.0.3",
   "min_version": "1.0.0",
   "force": false,
   "url": "https://github.com/MANHPRO11/ESP32OTA_MPRO/raw/main/firmware.bin",
@@ -7,8 +7,10 @@
   "board": "ESP32-C3",
   "release_date": "2025-12-04",
   "notes": [
+    "test up FW.",
     "Auto-generated JSON.",
     "Added SHA-256 checksum.",
     "Ready for GitHub OTA update."
   ]
+
 }
