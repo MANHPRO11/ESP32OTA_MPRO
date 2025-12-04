@@ -1,9 +1,9 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.2",
   "min_version": "1.0.0",
   "force": false,
   "url": "https://github.com/MANHPRO11/ESP32OTA_MPRO/raw/main/firmware.bin",
-  "checksum_sha256": "61c389c792378da603d2e11ef403c17f70dfcbf5ec167edb17322306c141d155",
+  "checksum_sha256": "c704721670ed426dd1f45fa2dd85853cb3f43111b1de1dc0883aae67b5429881",
   "board": "ESP32-C3",
   "release_date": "2025-12-04",
   "notes": [
