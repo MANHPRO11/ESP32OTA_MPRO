@@ -3,7 +3,7 @@
   "min_version": "1.0.0",
   "force": false,
   "url": "https://github.com/MANHPRO11/ESP32OTA_MPRO/raw/main/firmware.bin",
-  "checksum_sha256": "2da3eebf6e360cf9c6f752d77b2de0dfa6130fc511dd9547f54d51c4b1df1e68",
+  "checksum_sha256": "61c389c792378da603d2e11ef403c17f70dfcbf5ec167edb17322306c141d155",
   "board": "ESP32-C3",
   "release_date": "2025-12-04",
   "notes": [
@@ -11,5 +11,4 @@
     "Added SHA-256 checksum.",
     "Ready for GitHub OTA update."
   ]
-
 }
