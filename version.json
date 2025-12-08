@@ -1,5 +1,5 @@
 {
-  "version": "1.0.8",
+  "version": "1.0.9",
   "min_version": "1.0.0",
   "force": false,
   "url": "https://raw.githubusercontent.com/MANHPRO11/ESP32OTA_MPRO/main/firmware.bin",
@@ -13,4 +13,5 @@
     "Added SHA-256 checksum.",
     "Ready for GitHub OTA update."
   ]
+
 }
