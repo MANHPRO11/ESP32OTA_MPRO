@@ -1,11 +1,11 @@
 {
-  "version": "1.0.3",
+  "version": "1.0.4",
   "min_version": "1.0.0",
   "force": false,
   "url": "https://github.com/MANHPRO11/ESP32OTA_MPRO/raw/main/firmware.bin",
-  "checksum_sha256": "9bec78dec101c5225e24147731ace4b3a5bfe1213a4aba735f1b2e6621d7bd44",
+  "checksum_sha256": "aeaf3175a569b0520c9d40cfca98b91b19608b1f93c72b5b75a23ac7b93df76a",
   "board": "ESP32-C3",
-  "release_date": "2025-12-05",
+  "release_date": "2025-12-08",
   "notes": [
     "them nhap lenh serial.",
     "them topic MAC.",
